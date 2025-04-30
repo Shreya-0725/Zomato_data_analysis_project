@@ -31,31 +31,29 @@ The dashboard should help Zomato make data-driven decisions on promotions, targe
 
 ## Key Visuals
 
-1. **Restaurant Type Distribution**:
-   - A **count plot** was used to show the frequency of customer orders for each restaurant type.
-   - **Insight**: Quick bites and casual dining options are the most ordered restaurant types, which highlights the customer preference for quick and casual dining experiences.
+### 1. Restaurant Type Distribution
+- **Visualization**: A count plot to display the frequency of orders for each restaurant type.
+- **Insight**: The majority of the restaurants in the dataset fall under the **Dining** category. Dining restaurants are preferred by a larger number of individuals compared to other types such as cafés or quick bites.
 
-2. **Votes Distribution**:
-   - A **bar plot** was created to display the number of votes each restaurant type has received.
-   - **Insight**: Casual dining and quick bites have the highest number of votes, indicating greater customer engagement in these categories.
+### 2. Total Votes Received by Each Type of Restaurant
+- **Visualization**: A line plot showing the total number of votes received by each restaurant type.
+- **Insight**: **Dining restaurants** have received the most votes, indicating a higher level of customer engagement and satisfaction in these types of restaurants.
 
-3. **Rating Distribution**:
-   - A **histogram** was used to analyze the distribution of restaurant ratings.
-   - **Insight**: Most restaurants have ratings between 3.5 and 4.5, signaling a general customer satisfaction across the platform.
+### 3. Ratings Distribution
+- **Visualization**: A histogram displaying the distribution of ratings across all restaurants.
+- **Insight**: Most restaurants have ratings ranging between **3.5 to 4**, which signifies that customers are generally satisfied with the dining experiences but there is still room for improvement.
 
-4. **Average Spending per Order by Couples**:
-   - A **count plot** was created to show the spending range of couples ordering food for two.
-   - **Insight**: Couples typically spend between ₹500 to ₹1200 per order, suggesting opportunities for Zomato to create couple-targeted promotions.
+### 4. Average Spending per Order by Couples
+- **Visualization**: A count plot showing the spending distribution for couples ordering food for two.
+- **Insight**: Couples typically spend around **₹300** per order, suggesting that Zomato could create targeted promotions and offers for couples.
 
-5. **Online vs. Offline Orders: Rating Comparison**:
-   - A **box plot** was created to visualize the distribution of ratings for online vs offline orders.
-   - **Insight**: Online orders generally have higher ratings, indicating a more satisfactory experience with the app or online ordering.
+### 5. Mode (Online vs. Offline) with Maximum Rating
+- **Visualization**: A box plot comparing ratings for online and offline orders.
+- **Insight**: **Online orders** receive higher ratings than offline orders. This suggests that the online ordering experience is generally more satisfying for customers.
 
-6. **Offline Orders by Restaurant Type**:
-   - A **bar plot** was created to compare the number of offline orders across restaurant types.
-   - **Insight**: Restaurants like cafes and casual dining options have higher offline orders, which could inform Zomato’s offline marketing strategies.
-
----
+### 6. Restaurant Type with Maximum Offline Orders
+- **Visualization**: A count plot visualizing the number of offline orders by restaurant type.
+- **Insight**: **Dining restaurants** receive the most offline orders, indicating a greater customer preference for full-service dining experiences as compared to buffets, cafes, or casual eateries.
 
 ## Insight and Conclusion
 
