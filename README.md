@@ -68,14 +68,6 @@ This analysis provides actionable insights that can help Zomato refine its promo
 
 ---
 
-## Future Work
-
-- **Customer Segmentation**: Segment customers based on their spending behavior and preferences.
-- **Time Series Analysis**: Analyze how ratings and orders fluctuate over time to identify trends.
-- **Geographical Insights**: Investigate how customer preferences differ by location to refine restaurant recommendations.
-
----
-
 ## Libraries Used
 
 - **Pandas**: For data manipulation and analysis.
